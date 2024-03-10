@@ -11,6 +11,8 @@ I've been coding since I was 12. Focused on learning web development. Later on I
 *   🚀  I'm currently working on [Monthly Runner](http://vytrvalec.kts.zcu.cz/en)
 *   🧠  I'm learning GRPC and Rust frameworks such as: Leptos, Axum, Tower or Diesel
 *   🤝  I'm open to collaborating on interesting projects such as: low level dev, IoT, web development
+
+
 <a href="https://www.github.com/Bleksak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Bleksak?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/bleksak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/bleksak?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
