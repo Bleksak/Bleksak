@@ -9,8 +9,8 @@ I've been coding for over 11 years. Focused on learning web development, but I a
 *   🌍  I'm based in Czech Republic
 *   ✉️  You can contact me at [jiri.velek7@protonmail.com](mailto:jiri.velek7@protonmail.com)
 *   🚀  I'm currently working on [Monthly Runner](http://vytrvalec.kts.zcu.cz/en)
-*   🧠  I'm learning GRPC and Rust frameworks such as: Leptos, Axum, Tower or Diesel
-*   🤝  I'm open to collaborating on interesting projects such as: low level dev, IoT, web development
+*   🧠  I'm currently Ruby on Rails and Ruby libraries.
+*   🤝  I'm open to collaborating on interesting projects such as: low level dev, IoT, native or web development
 
 
 <a href="https://www.github.com/Bleksak" target="_blank" rel="noreferrer"><img
