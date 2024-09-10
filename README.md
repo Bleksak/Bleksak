@@ -8,8 +8,7 @@ I've been coding for over 11 years. Focused on learning web development, but I a
 
 *   🌍  I'm based in Czech Republic
 *   ✉️  You can contact me at [jiri.velek7@protonmail.com](mailto:jiri.velek7@protonmail.com)
-*   🚀  I'm currently working at [SmartEmailing](https://www.smartemailing.cz/)
-*   🤝  I'm open to collaborating on interesting projects such as: low level dev, IoT, native or web development
+*   🤝  I'm open to collaborating on interesting projects such as: low level dev, IoT or native applications.
 
 
 <a href="https://www.github.com/Bleksak" target="_blank" rel="noreferrer"><img
