@@ -1,10 +1,10 @@
 Hi 👋 My name is Jiří Velek
 ===========================
 
-Backend web developer
+Low Level Developer
 ---------------------
 
-I've been coding for over 11 years. Focused on learning web development, but I also learned C, C++ with some game dev and OS dev basics.
+Programming since 2010. Learned C, C++, Assembly. Had to shift to web development lately though.
 
 *   🌍  I'm based in Czech Republic
 *   ✉️  You can contact me at [jiri.velek7@protonmail.com](mailto:jiri.velek7@protonmail.com)
