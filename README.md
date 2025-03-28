@@ -1,10 +1,10 @@
 Hi 👋 My name is Jiří Velek
 ===========================
 
-Low Level Developer
+SW Developer
 ---------------------
 
-Programming since 2010. Learned C, C++, Assembly. Had to shift to web development lately though.
+Programming since 2010
 
 *   🌍  I'm based in Czech Republic
 *   ✉️  You can contact me at [jiri.velek7@protonmail.com](mailto:jiri.velek7@protonmail.com)
