@@ -1,14 +1,12 @@
 Hi 👋 My name is Jiří Velek
 ===========================
 
-SW Developer
+Developer
 ---------------------
 
-Programming since 2010
-
-*   🌍  I'm based in Czech Republic
+*   🌍  Based in Czech Republic
 *   ✉️  You can contact me at [jiri.velek7@protonmail.com](mailto:jiri.velek7@protonmail.com)
-*   🤝  I'm open to collaborating on interesting projects such as: low level dev, IoT or native applications.
+*   🤝  I'm open to collaborating on interesting projects such as: low level dev, IoT, parsers, LSPs, static analyzers or native applications.
 
 
 <a href="https://www.github.com/Bleksak" target="_blank" rel="noreferrer"><img
